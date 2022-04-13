@@ -1,0 +1,51 @@
+/* Brecken Jergensen 4/13/2022 */
+
+.homebg{
+    background-image: url('../images/math.jpeg');
+    background-position: bottom right;
+    /* background-repeat: repeat; */ /* chrome version */
+}
+
+h2{
+    color: rgb(71, 69, 69);
+}
+
+h3{
+    color: grey;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.507);
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+}
+
+.footer {
+    color: black;
+    font-size: 12px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 10px;
+    text-align: center;
+}
