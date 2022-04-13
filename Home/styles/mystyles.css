@@ -1,0 +1,35 @@
+/* Brecken Jergensen 4/13/2022 */
+
+.homebg{
+    background-color: rgb(202, 191, 191);
+}
+
+.mainbody {
+    padding-left: 7px;
+}
+
+.backtotop{
+    font-size: 15px;
+    padding-left: 7px;
+}
+
+ol{
+    font-weight:bold;
+}
+
+.center{
+    text-align:center;
+}
+
+ul{
+    font-size: 15px;
+}
+
+.normal{
+    font-weight: normal;
+    font-style: italic;
+}
+
+.underline{
+    text-decoration:underline;
+}
